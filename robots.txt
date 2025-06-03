@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://estudiocardeilhac.vercel.app/sitemap.xml
