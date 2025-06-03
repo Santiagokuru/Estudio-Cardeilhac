@@ -375,8 +375,8 @@ section {
 .contact-item {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 12px;
+  gap: 30px;
+  margin-bottom: 30px;
 }
 
 .contact-item i {
